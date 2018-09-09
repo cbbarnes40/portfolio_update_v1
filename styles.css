@@ -61,7 +61,9 @@ header {
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
-}
+
+  }
+
 header {
   line-height: 1.5;
 }
@@ -84,6 +86,7 @@ header .profile-image:hover {
   display: table;
   margin: 10px auto;
 }
+
 .location {
   background-color: #222;
   color: yellow;
